@@ -70,3 +70,11 @@ a = Real part of the number
  a and b may contain integer or float number
  
  Ex: 5+7j, 0.5+2J
+              
+              com = 5+7j
+              print(com)
+     
+              type(com)
+#It will tell us which type of variable it is.                            
+ 
+
