@@ -45,7 +45,7 @@ Lets Understand With Example:
 #If you want to check its type , then there is a function for it
                             
                             type(Etha_n)
-#It will tell us which type of variable it is.                            
+#It will give us which type of variable it is.                            
  
  # Float Type:
  The Float datatype represents floating numbers. A floating point number is a number that contains a decimal point
@@ -75,6 +75,30 @@ a = Real part of the number
               print(com)
      
               type(com)
-#It will tell us which type of variable it is.                            
- 
+#It will give us which type of variable it is.
+
+# Bool/Boolean Type:
+The Bool Data type represents Boolean Value True or False. Python internally represents True as 1 and False as 0
+EXAMPLE:
+        As you ever do True + True, the output will be 2. OR True - False, The Output will be 1
+          
+          True + True = 2
+          True - Flase = 1
+
+So,...... much of this is used on the condition base
+
+Example:
+      
+      2 is greater than 3 or not, if yes than True Other wise False, This way the result come. 
+
+# Sequence Type:
+Following are the Sequence Type
+String
+
+List
+
+Tuple
+
+Range
+# String:
 
