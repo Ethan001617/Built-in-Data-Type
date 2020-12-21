@@ -93,6 +93,7 @@ Example:
 
 # Sequence Type:
 Following are the Sequence Type
+
 String
 
 List
@@ -100,5 +101,11 @@ List
 Tuple
 
 Range
-# String:
 
+# String:
+String represents group of characters. Strings are enclosed in double quotes or single quotes
+Here the characters means Letters A,B,C,D,E...Etc...,
+Example:
+        "Hello", "Ethan", 'Mike'
+If want to assign this thing in a variable
+str1 = 'Ethan'
