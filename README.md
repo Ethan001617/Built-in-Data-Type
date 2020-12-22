@@ -106,6 +106,11 @@ Range
 String represents group of characters. Strings are enclosed in double quotes or single quotes
 Here the characters means Letters A,B,C,D,E...Etc...,
 Example:
-        "Hello", "Ethan", 'Mike'
-If want to assign this thing in a variable
-str1 = 'Ethan'
+
+      "Hello", "Ethan", 'Mike'
+
+If want to assign this thing in a variable, 
+
+str1 = 'Ethan'  Here 'Ethan' is a string, is a group of characters. 
+
+That's why this variable will be the 'string' data type variable
