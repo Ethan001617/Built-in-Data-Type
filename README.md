@@ -116,4 +116,34 @@ str1 = 'Ethan'  Here 'Ethan' is a string, is a group of characters.
 That's why this variable will be the 'string' data type variable
 
 # List:
-A List represents a group of elements. A list can store different type of elements (That means, the integer type can also be an element, it can be a string type, it can also be a float type). which can be modified. List are dynamic which means size is not fixed (Like if you have learned any language C or Java, then you can compare it with an array. where, First we fix the size of the array so that the number of elements in it will be as much as the array.). List are represented using square bracket []..That means, the integer type can also be an element, it can be a string type, it can also be a float type,
+A List represents a group of elements. A list can store different type of elements (That means, the integer type can also be an element, it can be a string type, it can also be a float type). which can be modified. List are dynamic which means size is not fixed (Like if you have learned any language C or Java, then you can compare it with an array. where, First we fix the size of the array so that the number of elements in it will be as much as the array.). List are represented using square bracket [].
+
+
+The basic difference between the list and the array is that in the array you can keep the same type of data and in the list you can keep different types of data.
+
+Example:
+        
+       data = [10, 40, "Ethan", -50, 59.7,]
+if you want to access it then you can do like this
+       
+       print(data)
+       
+       Note: The first character has index 0. 
+       0 = 10
+       1 = 40
+       2 = "Ethan"
+       3 = -50
+       4 = 59.7
+
+If you want to modify it, you can do it like this
+
+        data[Insert an index number that you want to change] = Enter the value you want
+        suppose i want to change 40 value to 20 ;So i will do like this
+        data[1] = 20
+        here data is my variable name
+
+This is the intro concept of list, we will see it in detail , there is a lot of things left to study because it has a very big concept
+
+# Tuple:
+a tuple contains a group of elements which can be different types. it is similar to list but Tuple Read-Only which means we cannot modify it's element. Tuples are represented using parantheses()...
+
