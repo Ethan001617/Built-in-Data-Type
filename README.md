@@ -114,3 +114,6 @@ If want to assign this thing in a variable,
 str1 = 'Ethan'  Here 'Ethan' is a string, is a group of characters. 
 
 That's why this variable will be the 'string' data type variable
+
+# List:
+A List represents a group of elements. A list can store different type of elements (That means, the integer type can also be an element, it can be a string type, it can also be a float type). which can be modified. List are dynamic which means size is not fixed (Like if you have learned any language C or Java, then you can compare it with an array. where, First we fix the size of the array so that the number of elements in it will be as much as the array.). List are represented using square bracket []..That means, the integer type can also be an element, it can be a string type, it can also be a float type,
