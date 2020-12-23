@@ -104,6 +104,7 @@ Range
 
 # String:
 String represents group of characters. Strings are enclosed in double quotes or single quotes
+
 Here the characters means Letters A,B,C,D,E...Etc...,
 Example:
 
