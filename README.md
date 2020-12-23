@@ -161,4 +161,17 @@ Can access the element by index number
             if Will try to change it's Value It will give an error as 'tuple' object does not support item assignment
             Like if i want to change 40 as 20 .....I Can't..
             
+# Range:
+range Represents a sequence of numbers. The numbers in the range are not mofifiable.
+
+Example:-
+I created a Range data type variable as Rg
+
+                  Rg = range(6)                                 0,1,2,3,4,5
+other than this You can also use more values Like
+
+                  Rg = range(10,21,2)                           10,12,14,16,18,20
+            
+            It would mean That, Will start at 10 and Finish at 20, And there should be a difference of 2 between them
+            
             
