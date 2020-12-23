@@ -123,7 +123,7 @@ The basic difference between the list and the array is that in the array you can
 
 Example:
         
-       data = [10, 40, "Ethan", -50, 59.7,]
+       data = [10, 40, "Ethan", -50, 59.7]
 if you want to access it then you can do like this
        
        print(data)
@@ -145,5 +145,19 @@ If you want to modify it, you can do it like this
 This is the intro concept of list, we will see it in detail , there is a lot of things left to study because it has a very big concept
 
 # Tuple:
-a tuple contains a group of elements which can be different types. it is similar to list but Tuple Read-Only which means we cannot modify it's element. Tuples are represented using parantheses()...
+a tuple contains a group of elements which can be different types. it is similar to list, but Tuple is Read-Only. which means we cannot modify it's element. Tuples are represented using parantheses()...
 
+the difference between list and tuple is , The list is represented by square brackets and the tuple is reprensented by Parentheses.The rest of the work is almost same
+NOTE:-  Remember I am using Almost word
+
+So Example:- 
+
+            data = (10, 40, "Ethan", -50, 59.7)
+Can access the element by index number
+            
+            print(data[1])
+            
+            if Will try to change it's Value It will give an error as 'tuple' object does not support item assignment
+            Like if i want to change 40 as 20 .....I Can't..
+            
+            
